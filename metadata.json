@@ -1,0 +1,6 @@
+{
+  "name": "LUMÉA BEAUTY LOUNGE – Premium Beauty Parlour in Dhaka",
+  "description": "Where Beauty Meets Confidence. Premium beauty, bridal makeup, hair spa and self-care lounge located in Uttara, Dhaka, Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
